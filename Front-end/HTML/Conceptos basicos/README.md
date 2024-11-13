@@ -1,7 +1,7 @@
 # Conceptos básicos de HTML
 HTML (Hypertext Markup Language) es el estándar para la creación de páginas web. Es un lenguaje de marcado que permite estructurar el contenido en la web. A continuación, veremos los conceptos básicos de HTML y cómo empezar a trabajar con él.
 
-## ¿Qué es HTML?
+### ¿Qué es HTML?
 HTML es un lenguaje de marcado que le dice al navegador cómo debe estructurarse y visualizarse una página web. Utiliza una serie de elementos y etiquetas para describir el contenido de la página, como encabezados, párrafos, enlaces, listas, imágenes y más.
 
 # Elementos HTML
