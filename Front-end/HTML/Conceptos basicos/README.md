@@ -1,6 +1,6 @@
 # Conceptos básicos de HTML
 ## Anatomía de un documento HTML
-```html`
+```html
 <!doctype html>
 <html>
   <head>
